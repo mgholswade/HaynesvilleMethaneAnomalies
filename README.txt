@@ -1,0 +1,2 @@
+This is the code base for an analysis of methane level anomalies in the region surrounding the Haynesville Shale, namely Lousisiana and Texas. This project was completed
+as a group in the spring of 2020 and included myself, Harrison Magee, and Michael Feron. NASA's TROPOMI satellite data was used for the analysis.
